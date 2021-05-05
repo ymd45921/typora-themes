@@ -1,6 +1,7 @@
 :root {
     --side-bar-bg-color: #fafafa;
     --control-text-color: #777;
+    --fira-code: 'Fira Code', Consolas, Monaco, sans-serif;
 }
 
 @include-when-export url(https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext);
@@ -264,6 +265,7 @@ tt {
 code {
     background-color: #f3f4f4;
     padding: 0 2px 0 2px;
+    font-family: var(--fira-code);
 }
 
 .md-fences {
@@ -293,7 +295,7 @@ code {
 
 .md-fences {
 	background-color: #f8f8f8;
-    font-family: 'Fira Code', Consolas, Monaco, sans-serif;
+    font-family: var(--fira-code);
 }
 #write pre.md-meta-block {
 	padding: 1rem;
