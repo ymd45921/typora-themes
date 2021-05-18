@@ -114,7 +114,7 @@ h6 {
 }
 
 h1 {
-    font-size: 2.5rem;
+    font-size: 2.56rem;
     /* 36px */
     line-height: 2.75rem;
     /* 40px */
@@ -124,7 +124,7 @@ h1 {
 }
 
 h2 {
-    font-size: 1.63rem;
+    font-size: 2.16rem;
     /* 24px */
     line-height: 1.875rem;
     /* 30px */
@@ -135,7 +135,7 @@ h2 {
 }
 
 h3 {
-    font-size: 1.17rem;
+    font-size: 1.80rem;
     /* 18px */
     line-height: 1.5rem;
     /* 24px */
@@ -146,7 +146,7 @@ h3 {
 }
 
 h4 {
-    font-size: 1.12rem;
+    font-size: 1.60rem;
     /* 16px */
     line-height: 1.375rem;
     /* 22px */
@@ -156,7 +156,7 @@ h4 {
 }
 
 h5 {
-    font-size: 0.97rem;
+    font-size: 1.28rem;
     /* 16px */
     line-height: 1.25rem;
     /* 22px */
@@ -166,7 +166,7 @@ h5 {
 }
 
 h6 {
-    font-size: 0.93rem;
+    font-size: 1.08rem;
     /* 16px */
     line-height: 1rem;
     /* 16px */
